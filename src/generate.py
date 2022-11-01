@@ -60,7 +60,7 @@ def append_in_se(shared_fd_per_se, se, source_is_for_dev, value):
 
 def get_userscript_start(name):
     return f"""// ==UserScript==
-// @name        uBlock-Origin-dev-filter – {name}
+// @name        search-filter – {name}
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
@@ -103,11 +103,11 @@ def get_ublock_filters_header(name):
     return f"""! Title: uBlock-Origin-dev-filter – {name}
 ! Expires: 1 day
 ! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
-! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
-! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+! Homepage: https://github.com/zekxtreme/search-filter
+! Licence: https://github.com/zekxtreme/search-filter/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
-! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+! GitHub issues: https://github.com/zekxtreme/search-filter/issues
+! GitHub pull requests: https://github.com/zekxtreme/search-filter/pulls
 """
 
 dev_sources_list = (
@@ -137,13 +137,9 @@ ubo_search_engines = {
         "name": "Startpage",
         "formater": lambda url: to_startpage(url) + LINE_SEP
     },
-    "ecosia": {
-        "name": "Ecosia",
-        "formater": lambda url: to_ecosia(url) + LINE_SEP
-    },
     "all_search_engines": {
         "name": "All Search Engines",
-        "formater": lambda url: to_google(url) + LINE_SEP + to_duckduckgo(url) + LINE_SEP + to_brave(url) + LINE_SEP + to_startpage(url) + LINE_SEP + to_ecosia(url) + LINE_SEP
+        "formater": lambda url: to_google(url) + LINE_SEP + to_duckduckgo(url) + LINE_SEP + to_brave(url) + LINE_SEP + to_startpage(url) + LINE_SEP  + LINE_SEP
     }
 }
 

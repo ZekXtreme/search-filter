@@ -22,7 +22,6 @@ search_engines = (
     SearchEngineMeta("Google+DDG", "google_duckduckgo", "9b59b6"),
     SearchEngineMeta("Startpage", "startpage", "5b7bca"),
     SearchEngineMeta("Brave", "brave", "f25100"),
-    SearchEngineMeta("Ecosia", "ecosia", "36acb8"),
     SearchEngineMeta("All Search Engines", "all_search_engines", "ffffff")
 )
 
@@ -40,7 +39,7 @@ def md_tr(*td: str):
     return "|".join(("", *td, "")) + NEW_LINE
 
 def get_subscribe_url(dist_path: str, filename: str, title: str):
-    return f"https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fquenhus%2FuBlock-Origin-dev-filter%2Fmain%2Fdist%2F{dist_path}%2F{filename}.txt&title={param_encode(title)}"
+    return f"https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fzekxtreme%2Fsearch-filter%2Fmain%2Fdist%2F{dist_path}%2F{filename}.txt&title={param_encode(title)}"
 
 def get_table(*flavors: FlavorMeta):
     ret = md_tr("", *(f.table_name for f in flavors))
@@ -52,7 +51,7 @@ def get_table(*flavors: FlavorMeta):
             *(
                 md_link(
                     get_badge("uBO - add this filter", "uBlock Origin", "uBO", "add this filter", se.color),
-                    get_subscribe_url(se.dist_path, f.filename, f"uBlock-Origin-dev-filter - {se.name} - {f.name}")
+                    get_subscribe_url(se.dist_path, f.filename, f"search-filter - {se.name} - {f.name}")
                 )
                 for f in flavors
             )
@@ -70,7 +69,7 @@ def get_table_simple(*flavors: FlavorMeta):
             *(
                 md_link(
                     "add in uBO",
-                    get_subscribe_url(se.dist_path, f.filename, f"uBlock-Origin-dev-filter - {se.name} - {f.name}")
+                    get_subscribe_url(se.dist_path, f.filename, f"search-filter - {se.name} - {f.name}")
                 )
                 for f in flavors
             )
