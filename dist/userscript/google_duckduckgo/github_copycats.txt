@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - github
+// @name        search-filter – Google+DuckDuckGo - github
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*

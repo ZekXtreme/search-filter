@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - Global
+// @name        search-filter – Google+DuckDuckGo - Global
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
@@ -120,6 +120,7 @@
 [data-domain*="multi-let.co.uk"],
 [data-domain*="answerforyou.net"],
 [data-domain*="globalizethis.org"],
+[data-domain*="similarweb.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

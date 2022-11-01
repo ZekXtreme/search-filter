@@ -1,11 +1,11 @@
 ! Title: uBlock-Origin-dev-filter – Google+DuckDuckGo – Global
 ! Expires: 1 day
 ! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
-! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
-! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+! Homepage: https://github.com/zekxtreme/search-filter
+! Licence: https://github.com/zekxtreme/search-filter/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
-! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+! GitHub issues: https://github.com/zekxtreme/search-filter/issues
+! GitHub pull requests: https://github.com/zekxtreme/search-filter/pulls
 ||bleepcoder.com^$all
 google.*##.g:has(a[href*="bleepcoder.com"])
 duckduckgo.com###links>div:has(a[href*="bleepcoder.com"])
@@ -348,6 +348,9 @@ duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 google.*##.g:has(a[href*="globalizethis.org"])
 duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
+||similarweb.com^$all
+google.*##.g:has(a[href*="similarweb.com"])
+duckduckgo.com###links>div:has(a[href*="similarweb.com"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

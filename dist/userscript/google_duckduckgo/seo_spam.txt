@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - seo_spam
+// @name        search-filter – Google+DuckDuckGo - seo_spam
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
@@ -36,6 +36,7 @@
 [data-domain*="multi-let.co.uk"],
 [data-domain*="answerforyou.net"],
 [data-domain*="globalizethis.org"],
+[data-domain*="similarweb.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
