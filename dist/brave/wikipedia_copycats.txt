@@ -50,8 +50,6 @@ search.brave.com###results > div:has(a[href*="th.hmong.wiki"])
 search.brave.com###results > div:has(a[href*="hmong.ru"])
 ||livepcwiki.ru^$all
 search.brave.com###results > div:has(a[href*="livepcwiki.ru"])
-||enhancedwiki.territorioscuola.it^$all
-search.brave.com###results > div:has(a[href*="enhancedwiki.territorioscuola.it"])
 ||wiki-org.ru^$all
 search.brave.com###results > div:has(a[href*="wiki-org.ru"])
 ||wiki2.net^$all

@@ -72,9 +72,6 @@ duckduckgo.com###links>div:has(a[href*="hmong.ru"])
 ||livepcwiki.ru^$all
 google.*##.g:has(a[href*="livepcwiki.ru"])
 duckduckgo.com###links>div:has(a[href*="livepcwiki.ru"])
-||enhancedwiki.territorioscuola.it^$all
-google.*##.g:has(a[href*="enhancedwiki.territorioscuola.it"])
-duckduckgo.com###links>div:has(a[href*="enhancedwiki.territorioscuola.it"])
 ||wiki-org.ru^$all
 google.*##.g:has(a[href*="wiki-org.ru"])
 duckduckgo.com###links>div:has(a[href*="wiki-org.ru"])

@@ -138,12 +138,6 @@ duckduckgo.com###links>div:has(a[href*="livepcwiki.ru"])
 search.brave.com###results > div:has(a[href*="livepcwiki.ru"])
 startpage.com##.w-gl__result:has(a[href*="livepcwiki.ru"])
 
-||enhancedwiki.territorioscuola.it^$all
-google.*##.g:has(a[href*="enhancedwiki.territorioscuola.it"])
-duckduckgo.com###links>div:has(a[href*="enhancedwiki.territorioscuola.it"])
-search.brave.com###results > div:has(a[href*="enhancedwiki.territorioscuola.it"])
-startpage.com##.w-gl__result:has(a[href*="enhancedwiki.territorioscuola.it"])
-
 ||wiki-org.ru^$all
 google.*##.g:has(a[href*="wiki-org.ru"])
 duckduckgo.com###links>div:has(a[href*="wiki-org.ru"])

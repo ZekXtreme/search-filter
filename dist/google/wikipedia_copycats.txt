@@ -50,8 +50,6 @@ google.*##.g:has(a[href*="th.hmong.wiki"])
 google.*##.g:has(a[href*="hmong.ru"])
 ||livepcwiki.ru^$all
 google.*##.g:has(a[href*="livepcwiki.ru"])
-||enhancedwiki.territorioscuola.it^$all
-google.*##.g:has(a[href*="enhancedwiki.territorioscuola.it"])
 ||wiki-org.ru^$all
 google.*##.g:has(a[href*="wiki-org.ru"])
 ||wiki2.net^$all

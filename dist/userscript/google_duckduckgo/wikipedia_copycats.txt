@@ -28,7 +28,6 @@
 [data-domain*="th.hmong.wiki"],
 [data-domain*="hmong.ru"],
 [data-domain*="livepcwiki.ru"],
-[data-domain*="enhancedwiki.territorioscuola.it"],
 [data-domain*="wiki-org.ru"],
 [data-domain*="wiki2.net"],
 [data-domain*="wiki2.info"],
