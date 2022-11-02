@@ -351,6 +351,9 @@ duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
 ||similarweb.com^$all
 google.*##.g:has(a[href*="similarweb.com"])
 duckduckgo.com###links>div:has(a[href*="similarweb.com"])
+||chegg.com^$all
+google.*##.g:has(a[href*="chegg.com"])
+duckduckgo.com###links>div:has(a[href*="chegg.com"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

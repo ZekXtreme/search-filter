@@ -696,6 +696,12 @@ duckduckgo.com###links>div:has(a[href*="similarweb.com"])
 search.brave.com###results > div:has(a[href*="similarweb.com"])
 startpage.com##.w-gl__result:has(a[href*="similarweb.com"])
 
+||chegg.com^$all
+google.*##.g:has(a[href*="chegg.com"])
+duckduckgo.com###links>div:has(a[href*="chegg.com"])
+search.brave.com###results > div:has(a[href*="chegg.com"])
+startpage.com##.w-gl__result:has(a[href*="chegg.com"])
+
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

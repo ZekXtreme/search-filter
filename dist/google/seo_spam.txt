@@ -68,3 +68,5 @@ google.*##.g:has(a[href*="answerforyou.net"])
 google.*##.g:has(a[href*="globalizethis.org"])
 ||similarweb.com^$all
 google.*##.g:has(a[href*="similarweb.com"])
+||chegg.com^$all
+google.*##.g:has(a[href*="chegg.com"])

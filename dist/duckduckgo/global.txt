@@ -236,6 +236,8 @@ duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
 duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
 ||similarweb.com^$all
 duckduckgo.com###links>div:has(a[href*="similarweb.com"])
+||chegg.com^$all
+duckduckgo.com###links>div:has(a[href*="chegg.com"])
 ||code-examples.net^$all
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

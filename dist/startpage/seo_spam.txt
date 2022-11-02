@@ -68,3 +68,5 @@ startpage.com##.w-gl__result:has(a[href*="answerforyou.net"])
 startpage.com##.w-gl__result:has(a[href*="globalizethis.org"])
 ||similarweb.com^$all
 startpage.com##.w-gl__result:has(a[href*="similarweb.com"])
+||chegg.com^$all
+startpage.com##.w-gl__result:has(a[href*="chegg.com"])

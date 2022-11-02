@@ -236,6 +236,8 @@ search.brave.com###results > div:has(a[href*="answerforyou.net"])
 search.brave.com###results > div:has(a[href*="globalizethis.org"])
 ||similarweb.com^$all
 search.brave.com###results > div:has(a[href*="similarweb.com"])
+||chegg.com^$all
+search.brave.com###results > div:has(a[href*="chegg.com"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
