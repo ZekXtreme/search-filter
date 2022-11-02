@@ -20,7 +20,6 @@
 *://th.hmong.wiki/*
 *://hmong.ru/*
 *://livepcwiki.ru/*
-*://enhancedwiki.territorioscuola.it/*
 *://wiki-org.ru/*
 *://wiki2.net/*
 *://wiki2.info/*
