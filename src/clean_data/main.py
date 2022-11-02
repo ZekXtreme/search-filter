@@ -86,7 +86,7 @@ def main():
 
     clean_result_per_file = defaultdict(list)
 
-    for source_f in sorted(root_path.joinpath("data").glob("np*.txt")):
+    for source_f in sorted(root_path.joinpath("data").glob("*.txt")):
         with source_f.open("r") as source_fd:
             for line in source_fd:
                     if line.startswith("!") or not line.strip():

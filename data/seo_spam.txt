@@ -29,3 +29,4 @@
 *://answerforyou.net/*
 *://globalizethis.org/*
 *://similarweb.com/*
+*://chegg.com/*
