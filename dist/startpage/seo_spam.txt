@@ -70,3 +70,9 @@ startpage.com##.w-gl__result:has(a[href*="globalizethis.org"])
 startpage.com##.w-gl__result:has(a[href*="similarweb.com"])
 ||chegg.com^$all
 startpage.com##.w-gl__result:has(a[href*="chegg.com"])
+||g2.com^$all
+startpage.com##.w-gl__result:has(a[href*="g2.com"])
+||alternativeto.net^$all
+startpage.com##.w-gl__result:has(a[href*="alternativeto.net"])
+||snapcraft.io/install$all
+startpage.com##.w-gl__result:has(a[href*="snapcraft.io/install"])

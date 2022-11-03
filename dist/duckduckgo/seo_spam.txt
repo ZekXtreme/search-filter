@@ -70,3 +70,9 @@ duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
 duckduckgo.com###links>div:has(a[href*="similarweb.com"])
 ||chegg.com^$all
 duckduckgo.com###links>div:has(a[href*="chegg.com"])
+||g2.com^$all
+duckduckgo.com###links>div:has(a[href*="g2.com"])
+||alternativeto.net^$all
+duckduckgo.com###links>div:has(a[href*="alternativeto.net"])
+||snapcraft.io/install$all
+duckduckgo.com###links>div:has(a[href*="snapcraft.io/install"])

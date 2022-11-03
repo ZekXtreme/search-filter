@@ -224,6 +224,12 @@ google.*##.g:has(a[href*="globalizethis.org"])
 google.*##.g:has(a[href*="similarweb.com"])
 ||chegg.com^$all
 google.*##.g:has(a[href*="chegg.com"])
+||g2.com^$all
+google.*##.g:has(a[href*="g2.com"])
+||alternativeto.net^$all
+google.*##.g:has(a[href*="alternativeto.net"])
+||snapcraft.io/install$all
+google.*##.g:has(a[href*="snapcraft.io/install"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

@@ -224,6 +224,12 @@ search.brave.com###results > div:has(a[href*="globalizethis.org"])
 search.brave.com###results > div:has(a[href*="similarweb.com"])
 ||chegg.com^$all
 search.brave.com###results > div:has(a[href*="chegg.com"])
+||g2.com^$all
+search.brave.com###results > div:has(a[href*="g2.com"])
+||alternativeto.net^$all
+search.brave.com###results > div:has(a[href*="alternativeto.net"])
+||snapcraft.io/install$all
+search.brave.com###results > div:has(a[href*="snapcraft.io/install"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
