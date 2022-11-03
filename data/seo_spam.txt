@@ -30,3 +30,6 @@
 *://globalizethis.org/*
 *://similarweb.com/*
 *://chegg.com/*
+*://g2.com/*
+*://alternativeto.net/*
+*://snapcraft.io/install
