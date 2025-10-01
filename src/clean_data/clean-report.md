@@ -9,7 +9,7 @@
 |[*://giters.com/*](//giters.com)||[Search 🔎](https://www.google.com/search?q=site%3Agiters.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Agiters.com)|
 |[*://githubmemory.com/*](//githubmemory.com)||[Search 🔎](https://www.google.com/search?q=site%3Agithubmemory.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Agithubmemory.com)|
 |[*://wenyanet.com/*](//wenyanet.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Awenyanet.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Awenyanet.com)|
-|[*://issueexplorer.com/*](//issueexplorer.com)||[Search 🔎](https://www.google.com/search?q=site%3Aissueexplorer.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aissueexplorer.com)|
+|[*://issueexplorer.com/*](//issueexplorer.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aissueexplorer.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aissueexplorer.com)|
 |[*://opensourcelibs.com/*](//opensourcelibs.com)||[Search 🔎](https://www.google.com/search?q=site%3Aopensourcelibs.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aopensourcelibs.com)|
 |[*://awesomeopensource.com/*](//awesomeopensource.com)||[Search 🔎](https://www.google.com/search?q=site%3Aawesomeopensource.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aawesomeopensource.com)|
 |[*://findbestopensource.com/*](//findbestopensource.com)||[Search 🔎](https://www.google.com/search?q=site%3Afindbestopensource.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Afindbestopensource.com)|
@@ -54,7 +54,7 @@
 |[*://softbranchdevelopers.com/*](//softbranchdevelopers.com)||[Search 🔎](https://www.google.com/search?q=site%3Asoftbranchdevelopers.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Asoftbranchdevelopers.com)|
 |[*://issueantenna.com/*](//issueantenna.com)||[Search 🔎](https://www.google.com/search?q=site%3Aissueantenna.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aissueantenna.com)|
 |[*://pythonlang.dev/*](//pythonlang.dev)||[Search 🔎](https://www.google.com/search?q=site%3Apythonlang.dev)|[Search 🔎](https://duckduckgo.com/?q=site%3Apythonlang.dev)|
-|[*://githublab.com/*](//githublab.com)||[Search 🔎](https://www.google.com/search?q=site%3Agithublab.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Agithublab.com)|
+|[*://githublab.com/*](//githublab.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Agithublab.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Agithublab.com)|
 |[*://libhunt.com/*](//libhunt.com)||[Search 🔎](https://www.google.com/search?q=site%3Alibhunt.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Alibhunt.com)|
 |[*://andywarholpopartillustration.blogspot.com/*](//andywarholpopartillustration.blogspot.com)||[Search 🔎](https://www.google.com/search?q=site%3Aandywarholpopartillustration.blogspot.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aandywarholpopartillustration.blogspot.com)|
 |[*://bytemeta.vip/*](//bytemeta.vip)||[Search 🔎](https://www.google.com/search?q=site%3Abytemeta.vip)|[Search 🔎](https://duckduckgo.com/?q=site%3Abytemeta.vip)|
@@ -250,7 +250,7 @@
 |[*://python-stack.de/*](//python-stack.de)|❌|[Search 🔎](https://www.google.com/search?q=site%3Apython-stack.de)|[Search 🔎](https://duckduckgo.com/?q=site%3Apython-stack.de)|
 |[*://stackfinder.ru/*](//stackfinder.ru)||[Search 🔎](https://www.google.com/search?q=site%3Astackfinder.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Astackfinder.ru)|
 |[*://desenv-web-rp.com/*](//desenv-web-rp.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Adesenv-web-rp.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Adesenv-web-rp.com)|
-|[*://examplefiles.net/*](//examplefiles.net)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aexamplefiles.net)|[Search 🔎](https://duckduckgo.com/?q=site%3Aexamplefiles.net)|
+|[*://examplefiles.net/*](//examplefiles.net)||[Search 🔎](https://www.google.com/search?q=site%3Aexamplefiles.net)|[Search 🔎](https://duckduckgo.com/?q=site%3Aexamplefiles.net)|
 |[*://codewdw.com/*](//codewdw.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Acodewdw.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Acodewdw.com)|
 |[*://jpcodeqa.com/*](//jpcodeqa.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Ajpcodeqa.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajpcodeqa.com)|
 |[*://justshowmethecode.com/*](//justshowmethecode.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Ajustshowmethecode.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajustshowmethecode.com)|
@@ -263,7 +263,7 @@
 |[*://progi.pro/*](//progi.pro)||[Search 🔎](https://www.google.com/search?q=site%3Aprogi.pro)|[Search 🔎](https://duckduckgo.com/?q=site%3Aprogi.pro)|
 |[*://jike.in/*](//jike.in)||[Search 🔎](https://www.google.com/search?q=site%3Ajike.in)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajike.in)|
 |[*://web-dev-qa.com/*](//web-dev-qa.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aweb-dev-qa.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aweb-dev-qa.com)|
-|[*://elfishgene.com/*](//elfishgene.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aelfishgene.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aelfishgene.com)|
+|[*://elfishgene.com/*](//elfishgene.com)||[Search 🔎](https://www.google.com/search?q=site%3Aelfishgene.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aelfishgene.com)|
 |[*://dapper-tutorial.net/*](//dapper-tutorial.net)||[Search 🔎](https://www.google.com/search?q=site%3Adapper-tutorial.net)|[Search 🔎](https://duckduckgo.com/?q=site%3Adapper-tutorial.net)|
 |[*://cmsdk.com/*](//cmsdk.com)||[Search 🔎](https://www.google.com/search?q=site%3Acmsdk.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Acmsdk.com)|
 |[*://ask-ubuntu.ru/*](//ask-ubuntu.ru)||[Search 🔎](https://www.google.com/search?q=site%3Aask-ubuntu.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Aask-ubuntu.ru)|
@@ -328,7 +328,7 @@
 |[*://askfrance.me/*](//askfrance.me)||[Search 🔎](https://www.google.com/search?q=site%3Aaskfrance.me)|[Search 🔎](https://duckduckgo.com/?q=site%3Aaskfrance.me)|
 |[*://respuestas.me/*](//respuestas.me)||[Search 🔎](https://www.google.com/search?q=site%3Arespuestas.me)|[Search 🔎](https://duckduckgo.com/?q=site%3Arespuestas.me)|
 |[*://antwortenhier.me/*](//antwortenhier.me)||[Search 🔎](https://www.google.com/search?q=site%3Aantwortenhier.me)|[Search 🔎](https://duckduckgo.com/?q=site%3Aantwortenhier.me)|
-|[*://proubuntu.ru/*](//proubuntu.ru)||[Search 🔎](https://www.google.com/search?q=site%3Aproubuntu.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Aproubuntu.ru)|
+|[*://proubuntu.ru/*](//proubuntu.ru)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aproubuntu.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Aproubuntu.ru)|
 |[*://over.wiki/*](//over.wiki)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aover.wiki)|[Search 🔎](https://duckduckgo.com/?q=site%3Aover.wiki)|
 |[*://grokbase.com/*](//grokbase.com)||[Search 🔎](https://www.google.com/search?q=site%3Agrokbase.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Agrokbase.com)|
 |[*://wp-qa.com/*](//wp-qa.com)||[Search 🔎](https://www.google.com/search?q=site%3Awp-qa.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Awp-qa.com)|
@@ -370,7 +370,7 @@
 |[*://web-dev-qa-db-pt.com/*](//web-dev-qa-db-pt.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aweb-dev-qa-db-pt.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aweb-dev-qa-db-pt.com)|
 |[*://tra-loi-cau-hoi-phat-trien-web.com/*](//tra-loi-cau-hoi-phat-trien-web.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Atra-loi-cau-hoi-phat-trien-web.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Atra-loi-cau-hoi-phat-trien-web.com)|
 |[*://suttonedfoundation.org/*](//suttonedfoundation.org)|❌|[Search 🔎](https://www.google.com/search?q=site%3Asuttonedfoundation.org)|[Search 🔎](https://duckduckgo.com/?q=site%3Asuttonedfoundation.org)|
-|[*://tousu.in/*](//tousu.in)||[Search 🔎](https://www.google.com/search?q=site%3Atousu.in)|[Search 🔎](https://duckduckgo.com/?q=site%3Atousu.in)|
+|[*://tousu.in/*](//tousu.in)|❌|[Search 🔎](https://www.google.com/search?q=site%3Atousu.in)|[Search 🔎](https://duckduckgo.com/?q=site%3Atousu.in)|
 |[*://itdaan.com/*](//itdaan.com)||[Search 🔎](https://www.google.com/search?q=site%3Aitdaan.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aitdaan.com)|
 |[*://itranslater.com/*](//itranslater.com)||[Search 🔎](https://www.google.com/search?q=site%3Aitranslater.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aitranslater.com)|
 |[*://software-testing.com/*](//software-testing.com)||[Search 🔎](https://www.google.com/search?q=site%3Asoftware-testing.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Asoftware-testing.com)|
@@ -380,15 +380,15 @@
 |[*://sargon24.com/*](//sargon24.com)||[Search 🔎](https://www.google.com/search?q=site%3Asargon24.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Asargon24.com)|
 |[*://javafixing.com/*](//javafixing.com)||[Search 🔎](https://www.google.com/search?q=site%3Ajavafixing.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajavafixing.com)|
 |[*://icopy.site/*](//icopy.site)||[Search 🔎](https://www.google.com/search?q=site%3Aicopy.site)|[Search 🔎](https://duckduckgo.com/?q=site%3Aicopy.site)|
-|[*://frameboxxindore.com/*](//frameboxxindore.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aframeboxxindore.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aframeboxxindore.com)|
+|[*://frameboxxindore.com/*](//frameboxxindore.com)||[Search 🔎](https://www.google.com/search?q=site%3Aframeboxxindore.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aframeboxxindore.com)|
 |[*://qa.wujigu.com/*](//qa.wujigu.com)||[Search 🔎](https://www.google.com/search?q=site%3Aqa.wujigu.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aqa.wujigu.com)|
 |[*://shenzhenjia.net/*](//shenzhenjia.net)||[Search 🔎](https://www.google.com/search?q=site%3Ashenzhenjia.net)|[Search 🔎](https://duckduckgo.com/?q=site%3Ashenzhenjia.net)|
 |[*://ogeek.cn/*](//ogeek.cn)||[Search 🔎](https://www.google.com/search?q=site%3Aogeek.cn)|[Search 🔎](https://duckduckgo.com/?q=site%3Aogeek.cn)|
 |[*://imtqy.com/*](//imtqy.com)||[Search 🔎](https://www.google.com/search?q=site%3Aimtqy.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aimtqy.com)|
-|[*://idqna.com/*](//idqna.com)||[Search 🔎](https://www.google.com/search?q=site%3Aidqna.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aidqna.com)|
+|[*://idqna.com/*](//idqna.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aidqna.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aidqna.com)|
 |[*://peaku.co/*](//peaku.co)||[Search 🔎](https://www.google.com/search?q=site%3Apeaku.co)|[Search 🔎](https://duckduckgo.com/?q=site%3Apeaku.co)|
-|[*://javawenti.com/*](//javawenti.com)||[Search 🔎](https://www.google.com/search?q=site%3Ajavawenti.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajavawenti.com)|
-|[*://runexception.com/*](//runexception.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Arunexception.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Arunexception.com)|
+|[*://javawenti.com/*](//javawenti.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Ajavawenti.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajavawenti.com)|
+|[*://runexception.com/*](//runexception.com)||[Search 🔎](https://www.google.com/search?q=site%3Arunexception.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Arunexception.com)|
 |[*://ebestcode.com/*](//ebestcode.com)||[Search 🔎](https://www.google.com/search?q=site%3Aebestcode.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aebestcode.com)|
 |[*://likecs.com/*](//likecs.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Alikecs.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Alikecs.com)|
 |[*://solveforum.com/*](//solveforum.com)||[Search 🔎](https://www.google.com/search?q=site%3Asolveforum.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Asolveforum.com)|
@@ -428,7 +428,7 @@
 |[*://flvrclothing.com/*](//flvrclothing.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aflvrclothing.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aflvrclothing.com)|
 |[*://pyquestions.com/*](//pyquestions.com)||[Search 🔎](https://www.google.com/search?q=site%3Apyquestions.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Apyquestions.com)|
 |[*://djcxy.com/*](//djcxy.com)||[Search 🔎](https://www.google.com/search?q=site%3Adjcxy.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Adjcxy.com)|
-|[*://python.engineering/*](//python.engineering)|❌|[Search 🔎](https://www.google.com/search?q=site%3Apython.engineering)|[Search 🔎](https://duckduckgo.com/?q=site%3Apython.engineering)|
+|[*://python.engineering/*](//python.engineering)||[Search 🔎](https://www.google.com/search?q=site%3Apython.engineering)|[Search 🔎](https://duckduckgo.com/?q=site%3Apython.engineering)|
 |[*://it1352.com/*](//it1352.com)||[Search 🔎](https://www.google.com/search?q=site%3Ait1352.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ait1352.com)|
 |[*://adoclib.com/*](//adoclib.com)||[Search 🔎](https://www.google.com/search?q=site%3Aadoclib.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aadoclib.com)|
 |[*://796t.com/*](//796t.com)||[Search 🔎](https://www.google.com/search?q=site%3A796t.com)|[Search 🔎](https://duckduckgo.com/?q=site%3A796t.com)|
@@ -527,7 +527,7 @@
 |[*://makemeengr.com/*](//makemeengr.com)||[Search 🔎](https://www.google.com/search?q=site%3Amakemeengr.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Amakemeengr.com)|
 |[*://py4u.org/*](//py4u.org)|❌|[Search 🔎](https://www.google.com/search?q=site%3Apy4u.org)|[Search 🔎](https://duckduckgo.com/?q=site%3Apy4u.org)|
 |[*://snippmate.com/*](//snippmate.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Asnippmate.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Asnippmate.com)|
-|[*://oursbrand.com/*](//oursbrand.com)||[Search 🔎](https://www.google.com/search?q=site%3Aoursbrand.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aoursbrand.com)|
+|[*://oursbrand.com/*](//oursbrand.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aoursbrand.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aoursbrand.com)|
 |[*://rowcoding.com/*](//rowcoding.com)||[Search 🔎](https://www.google.com/search?q=site%3Arowcoding.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Arowcoding.com)|
 |[*://kausalvikash.in/*](//kausalvikash.in)||[Search 🔎](https://www.google.com/search?q=site%3Akausalvikash.in)|[Search 🔎](https://duckduckgo.com/?q=site%3Akausalvikash.in)|
 |[*://pythonhowto.org/*](//pythonhowto.org)|❌|[Search 🔎](https://www.google.com/search?q=site%3Apythonhowto.org)|[Search 🔎](https://duckduckgo.com/?q=site%3Apythonhowto.org)|
@@ -539,7 +539,7 @@
 |[*://johndeerecreditpowerplan.com/*](//johndeerecreditpowerplan.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Ajohndeerecreditpowerplan.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajohndeerecreditpowerplan.com)|
 |[*://sujeshanto.blogspot.com/*](//sujeshanto.blogspot.com)||[Search 🔎](https://www.google.com/search?q=site%3Asujeshanto.blogspot.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Asujeshanto.blogspot.com)|
 |[*://answersfordevelopers.blogspot.com/*](//answersfordevelopers.blogspot.com)||[Search 🔎](https://www.google.com/search?q=site%3Aanswersfordevelopers.blogspot.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aanswersfordevelopers.blogspot.com)|
-|[*://ingrom.com/*](//ingrom.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aingrom.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aingrom.com)|
+|[*://ingrom.com/*](//ingrom.com)||[Search 🔎](https://www.google.com/search?q=site%3Aingrom.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aingrom.com)|
 |[*://jtuto.com/*](//jtuto.com)||[Search 🔎](https://www.google.com/search?q=site%3Ajtuto.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ajtuto.com)|
 |[*://notcrash.com/*](//notcrash.com)||[Search 🔎](https://www.google.com/search?q=site%3Anotcrash.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Anotcrash.com)|
 |[*://blogmepost.com/*](//blogmepost.com)||[Search 🔎](https://www.google.com/search?q=site%3Ablogmepost.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Ablogmepost.com)|
@@ -552,7 +552,7 @@
 |[*://91r.net/*](//91r.net)||[Search 🔎](https://www.google.com/search?q=site%3A91r.net)|[Search 🔎](https://duckduckgo.com/?q=site%3A91r.net)|
 |[*://manongdao.com/*](//manongdao.com)||[Search 🔎](https://www.google.com/search?q=site%3Amanongdao.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Amanongdao.com)|
 |[*://prograide.com/*](//prograide.com)||[Search 🔎](https://www.google.com/search?q=site%3Aprograide.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aprograide.com)|
-|[*://iteramos.com/*](//iteramos.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aiteramos.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aiteramos.com)|
+|[*://iteramos.com/*](//iteramos.com)||[Search 🔎](https://www.google.com/search?q=site%3Aiteramos.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aiteramos.com)|
 |[*://resultfor.dev/*](//resultfor.dev)||[Search 🔎](https://www.google.com/search?q=site%3Aresultfor.dev)|[Search 🔎](https://duckduckgo.com/?q=site%3Aresultfor.dev)|
 |[*://heavenlymutex.com/*](//heavenlymutex.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aheavenlymutex.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aheavenlymutex.com)|
 |[*://encodingcompiler.com/*](//encodingcompiler.com)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aencodingcompiler.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Aencodingcompiler.com)|
@@ -617,13 +617,13 @@
 |[*://sv.abcdef.wiki/*](//sv.abcdef.wiki)||[Search 🔎](https://www.google.com/search?q=site%3Asv.abcdef.wiki)|[Search 🔎](https://duckduckgo.com/?q=site%3Asv.abcdef.wiki)|
 |[*://buildwiki.ru/*](//buildwiki.ru)||[Search 🔎](https://www.google.com/search?q=site%3Abuildwiki.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Abuildwiki.ru)|
 |[*://datewiki.ru/*](//datewiki.ru)||[Search 🔎](https://www.google.com/search?q=site%3Adatewiki.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Adatewiki.ru)|
-|[*://encyclopaedia.bid/*](//encyclopaedia.bid)||[Search 🔎](https://www.google.com/search?q=site%3Aencyclopaedia.bid)|[Search 🔎](https://duckduckgo.com/?q=site%3Aencyclopaedia.bid)|
+|[*://encyclopaedia.bid/*](//encyclopaedia.bid)|❌|[Search 🔎](https://www.google.com/search?q=site%3Aencyclopaedia.bid)|[Search 🔎](https://duckduckgo.com/?q=site%3Aencyclopaedia.bid)|
 |[*://gaz.wiki/*](//gaz.wiki)||[Search 🔎](https://www.google.com/search?q=site%3Agaz.wiki)|[Search 🔎](https://duckduckgo.com/?q=site%3Agaz.wiki)|
-|[*://th.hmong.wiki/*](//th.hmong.wiki)|❌|[Search 🔎](https://www.google.com/search?q=site%3Ath.hmong.wiki)|[Search 🔎](https://duckduckgo.com/?q=site%3Ath.hmong.wiki)|
+|[*://th.hmong.wiki/*](//th.hmong.wiki)||[Search 🔎](https://www.google.com/search?q=site%3Ath.hmong.wiki)|[Search 🔎](https://duckduckgo.com/?q=site%3Ath.hmong.wiki)|
 |[*://hmong.ru/*](//hmong.ru)||[Search 🔎](https://www.google.com/search?q=site%3Ahmong.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Ahmong.ru)|
 |[*://livepcwiki.ru/*](//livepcwiki.ru)||[Search 🔎](https://www.google.com/search?q=site%3Alivepcwiki.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Alivepcwiki.ru)|
 |[*://wiki-org.ru/*](//wiki-org.ru)||[Search 🔎](https://www.google.com/search?q=site%3Awiki-org.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Awiki-org.ru)|
-|[*://wiki2.net/*](//wiki2.net)|❌|[Search 🔎](https://www.google.com/search?q=site%3Awiki2.net)|[Search 🔎](https://duckduckgo.com/?q=site%3Awiki2.net)|
+|[*://wiki2.net/*](//wiki2.net)||[Search 🔎](https://www.google.com/search?q=site%3Awiki2.net)|[Search 🔎](https://duckduckgo.com/?q=site%3Awiki2.net)|
 |[*://wiki2.info/*](//wiki2.info)||[Search 🔎](https://www.google.com/search?q=site%3Awiki2.info)|[Search 🔎](https://duckduckgo.com/?q=site%3Awiki2.info)|
 |[*://wiki2.org/*](//wiki2.org)||[Search 🔎](https://www.google.com/search?q=site%3Awiki2.org)|[Search 🔎](https://duckduckgo.com/?q=site%3Awiki2.org)|
 |[*://wiki.cologne/*](//wiki.cologne)|❌|[Search 🔎](https://www.google.com/search?q=site%3Awiki.cologne)|[Search 🔎](https://duckduckgo.com/?q=site%3Awiki.cologne)|
@@ -633,7 +633,7 @@
 |[*://wikipe.wiki/*](//wikipe.wiki)||[Search 🔎](https://www.google.com/search?q=site%3Awikipe.wiki)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikipe.wiki)|
 |[*://wikipedia.tel/*](//wikipedia.tel)||[Search 🔎](https://www.google.com/search?q=site%3Awikipedia.tel)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikipedia.tel)|
 |[*://wikidark.ru/*](//wikidark.ru)||[Search 🔎](https://www.google.com/search?q=site%3Awikidark.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikidark.ru)|
-|[*://wikiredia.ru/*](//wikiredia.ru)||[Search 🔎](https://www.google.com/search?q=site%3Awikiredia.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikiredia.ru)|
+|[*://wikiredia.ru/*](//wikiredia.ru)|❌|[Search 🔎](https://www.google.com/search?q=site%3Awikiredia.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikiredia.ru)|
 |[*://wikipedia24.ru/*](//wikipedia24.ru)||[Search 🔎](https://www.google.com/search?q=site%3Awikipedia24.ru)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikipedia24.ru)|
 |[*://wikiwand.com/*](//wikiwand.com)||[Search 🔎](https://www.google.com/search?q=site%3Awikiwand.com)|[Search 🔎](https://duckduckgo.com/?q=site%3Awikiwand.com)|
 |[*://encyclopedia.kz/*](//encyclopedia.kz)||[Search 🔎](https://www.google.com/search?q=site%3Aencyclopedia.kz)|[Search 🔎](https://duckduckgo.com/?q=site%3Aencyclopedia.kz)|
